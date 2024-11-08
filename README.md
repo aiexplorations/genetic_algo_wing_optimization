@@ -4,6 +4,8 @@ This is a Python implementation of an enhanced genetic algorithm for optimizing 
 
 This work was originally published in 2010 by Rajesh Sampathkumar and Amit R Patel, and was converted to Python for this project. The current version includes a Streamlit UI, adaptive mutation rate, diversity preservation, elitism, tournament selection, fitness scaling, binary encoding, blend crossover, aspect ratio penalty, and visualization.
 
+![Genetic Algorithm for Wing Planform Optimization - Frontend](img/img01.png)
+
 ## Features
 
 - **Streamlit UI**: Interactive interface for setting algorithm parameters and visualizing results. This UI allows for easy experimentation with different parameters and visualizations of the optimization process.
